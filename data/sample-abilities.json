@@ -1,0 +1,32 @@
+[
+  {
+    "ability_category": "investigative",
+    "ability_name": "Anthropology",
+    "ability_type": "Academic",
+    "description": "<p>You are an expert in the study of human cultures, from the stone age to\nthe Internet age.</p>\n\n<p>You can:</p>\n\n<ul>\n<li>identify artifacts and rituals of living cultures</li>\n<li>describe the customs of a foreign group or local subculture</li>\n<li>extrapolate the practices of an unknown culture from similar examples</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Archaeology",
+    "ability_type": "Academic",
+    "description": "<p>You excavate and study the structures and artifacts of historical\ncultures and civilizations. You can:</p>\n\n<ul>\n<li>tell how long something has been buried</li>\n<li>identify artifacts by culture and usage</li>\n<li>distinguish real artifacts from fakes</li>\n<li>navigate inside ruins and catacombs</li>\n<li>describe the customs of ancient or historical cultures</li>\n<li>spot well-disguised graves and underground hiding places</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Trivia",
+    "ability_type": "Academic",
+    "description": "<p>You're a font of apparently useless information that would stand you in\ngood stead as a contestant on a quiz show. You're especially good in the\nfollowing spheres of interest:</p>\n\n<ul>\n<li>celebrities and entertainment</li>\n<li>sports records and statistics</li>\n<li>geography</li>\n<li>arts and letters</li>\n<li>names in the news</li>\n</ul>\n\n<p>This catch-all ability also allows you to know any obscure fact not\ncovered by another GUMSHOE ability. (In moments of improvisatory\ndesperation, your GM may allow you to overlap with abilities which none\nof the players at the current session possess, or which no one is\nthinking to use.)</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Artillery",
+    "ability_type": "Physical",
+    "description": "<p><em>Allows you to operate weaponry systems too large to be carried by a\nperson, including mortars and high-caliber mounted guns.</em></p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Athletics",
+    "ability_type": "Physical",
+    "description": "<p>Athletics allows you to perform general acts of physical derring-do,\nfrom running to jumping to dodging falling or oncoming objects. Any\nphysical action not covered by another ability, probably falls under the\nrubric of Athletics.</p>\n\n<p>If your Athletics rating is 8 or more, your Hit Threshold, the Target\nNumber your opponents use when attempting to hit you in combat, is 4.\nOtherwise, your Hit Threshold is 3.</p>\n"
+  }
+]

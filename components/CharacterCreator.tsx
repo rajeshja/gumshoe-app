@@ -10,7 +10,8 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import AbilitySelector from "./AbilitySelector"
 import RemainingPoints from "./RemainingPoints"
 import type { Character } from "@/types/character"
-import abilitiesData from "@/data/abilities.json"
+import { useAbilities } from "@/contexts/AbilitiesContext"
+import type { Ability } from "@/contexts/AbilitiesContext"
 
 interface CharacterCreatorProps {
   character: Character
@@ -35,8 +36,17 @@ export default function CharacterCreator({
   onComplete,
   onBack,
 }: CharacterCreatorProps) {
+  const { abilitiesData } = useAbilities()
   const [currentCharacter, setCurrentCharacter] = useState<Character>(character)
   const [activeTab, setActiveTab] = useState<string>("basic")
+  
+  // Filter abilities by category
+  const investigativeAbilitiesList = abilitiesData.filter(
+    (ability) => ability.ability_category === "investigative"
+  )
+  const generalAbilitiesList = abilitiesData.filter(
+    (ability) => ability.ability_category === "general"
+  )
 
   useEffect(() => {
     setCurrentCharacter(character)
@@ -167,12 +177,16 @@ export default function CharacterCreator({
                 />
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {abilitiesData.investigative.map((ability) => (
+                {investigativeAbilitiesList.map((ability) => (
                   <AbilitySelector
-                    key={ability.name}
-                    ability={ability}
-                    currentRating={currentCharacter.investigativeAbilities[ability.name] || 0}
-                    onChange={(rating) => handleAbilityChange(ability.name, rating, "investigative")}
+                    key={ability.ability_name}
+                    ability={{
+                      name: ability.ability_name,
+                      category: ability.ability_type,
+                      description: ability.description
+                    }}
+                    currentRating={currentCharacter.investigativeAbilities[ability.ability_name] || 0}
+                    onChange={(rating) => handleAbilityChange(ability.ability_name, rating, "investigative")}
                     remainingPoints={investigativeBuildPoints - currentCharacter.investigativePointsSpent}
                     allCharacters={allCharacters}
                     currentCharacterIndex={currentCharacterIndex}
@@ -192,12 +206,16 @@ export default function CharacterCreator({
                 />
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {abilitiesData.general.map((ability) => (
+                {generalAbilitiesList.map((ability) => (
                   <AbilitySelector
-                    key={ability.name}
-                    ability={ability}
-                    currentRating={currentCharacter.generalAbilities[ability.name] || 0}
-                    onChange={(rating) => handleAbilityChange(ability.name, rating, "general")}
+                    key={ability.ability_name}
+                    ability={{
+                      name: ability.ability_name,
+                      category: ability.ability_type,
+                      description: ability.description
+                    }}
+                    currentRating={currentCharacter.generalAbilities[ability.ability_name] || 0}
+                    onChange={(rating) => handleAbilityChange(ability.ability_name, rating, "general")}
                     remainingPoints={generalBuildPoints - currentCharacter.generalPointsSpent}
                     allCharacters={allCharacters}
                     currentCharacterIndex={currentCharacterIndex}

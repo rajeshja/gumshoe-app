@@ -1,0 +1,686 @@
+[
+  {
+    "ability_category": "investigative",
+    "ability_name": "Anthropology",
+    "ability_type": "Academic",
+    "description": "<p>You are an expert in the study of human cultures, from the stone age to\nthe Internet age.</p>\n\n<p>You can:</p>\n\n<ul>\n<li>identify artifacts and rituals of living cultures</li>\n<li>describe the customs of a foreign group or local subculture</li>\n<li>extrapolate the practices of an unknown culture from similar examples</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Archaeology",
+    "ability_type": "Academic",
+    "description": "<p>You excavate and study the structures and artifacts of historical\ncultures and civilizations. You can:</p>\n\n<ul>\n<li>tell how long something has been buried</li>\n<li>identify artifacts by culture and usage</li>\n<li>distinguish real artifacts from fakes</li>\n<li>navigate inside ruins and catacombs</li>\n<li>describe the customs of ancient or historical cultures</li>\n<li>spot well-disguised graves and underground hiding places</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Architecture",
+    "ability_type": "Academic",
+    "description": "<p>You know how buildings are planned and constructed. You can:</p>\n\n<ul>\n<li>guess what lies around the corner while exploring an unknown structure</li>\n<li>judge the relative strength of building materials</li>\n<li>identify a building's age, architectural style, original use, and history of modifications</li>\n<li>construct stable makeshift structures</li>\n<li>identify elements vital to a building's structural integrity</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Art History",
+    "ability_type": "Academic",
+    "description": "<p>You're an expert on works of art from an aesthetic and technical point\nof view. You can:</p>\n\n<ul>\n<li>distinguish real works from fakes</li>\n<li>tell when something has been retouched or altered</li>\n<li>identify the age of an object by style and materials</li>\n<li>call to mind historical details on artists and those around them</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Astronomy",
+    "ability_type": "Technical",
+    "description": "<p>You study celestial objects, including the stars, planets. You can:</p>\n\n<ul>\n<li>decipher astrological texts</li>\n<li>plot the movement of constellations</li>\n<li>study and debunk UFO reports</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Authority",
+    "ability_type": "Interpersonal",
+    "description": "<p>You know how to present yourself as the person in charge, whether that's\na CEO, a government official, a military commander, or a police officer.\nYou speak the lingo of soldiers and law enforcement authorities, and you\nknow how to make people feel confident and relaxed in your presence. You\ncan:</p>\n\n<ul>\n<li>command the attention of people who need problems solved</li>\n<li>impersonate a law enforcement officer</li>\n<li>coolly ply cops and soldiers for confidential information</li>\n<li>fit in smoothly in any sort of military organization, with people assuming you're a soldier or an officer</li>\n<li>get excused for minor infractions</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Ballistics",
+    "ability_type": "Technical",
+    "description": "<p>You process evidence relating to the use of firearms. You can:</p>\n\n<ul>\n<li>identify the caliber and type of a bullet or casing found at a crime scene</li>\n<li>determine if a particular gun fired a given bullet</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Botany",
+    "ability_type": "Academic",
+    "description": "<p>You study plants and fungi and can:</p>\n\n<ul>\n<li>identify the likely environment in which a plant sample grew</li>\n<li>identify plants which might be toxic, carnivorous, or otherwise dangerous</li>\n<li>spot the symptoms of plant-derived poisonings</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Belle-Lettres",
+    "ability_type": "Academic",
+    "description": "<p>As a journalist, you know how to:</p>\n\n<ul>\n<li>identify rich, powerful, and influential persons in your city</li>\n<li>recall their past exploits and associations, including those too scandalous to print</li>\n<li>name their allies and enemies</li>\n<li>understand their political and philosophical leanings</li>\n<li>argue in a witty and tendentious style, in person or on the page</li>\n<li>navigate the city's profusion of newspapers and journals, from the size of their readership to the quirks of their editors</li>\n<li>recall the gist of articles from local publications, no matter how obscure</li>\n</ul>\n\n<p>You can also treat this as an Interpersonal ability, prying information\nfrom otherwise reluctant witnesses by either promising them favorable\ncoverage, or agreeing to keep their secrets.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Bonhomie",
+    "ability_type": "Interpersonal",
+    "description": "<p>Your sparkling personality delights people, making them want to please\nand impress you. Their desire to take you into their confidence may lead\nto indiscretions. Even if they later come to regret sharing secrets with\nyou, they can't help feeling that it was worth it. You were just too\nwitty, beautiful, and magnetic to resist.</p>\n\n<p>People both aware of, and hostile to, your aims, can disregard your\ncharm enough to withhold the information you seek. Even they won't be\nable to stop themselves from liking you, which may soften their behavior\ntoward you---especially if you make a Push.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Bullshit Detector",
+    "ability_type": "Interpersonal",
+    "description": "<p>You can tell when some people are lying. You must usually be interacting\nwith them or observing them from a close distance, but sometimes you can\nspot liars on television, too. Unfortunately, nearly everyone lies,\nespecially when facing possible trouble from the authorities. Sometimes\nyou can infer why they're lying, but it's hard to reliably discern\nmotive or get at the facts they're working to obscure. This sense\ndoesn't tell you what they're lying about, specifically, or see through\ntheir lies to the truth.</p>\n\n<p>Not all lies are verbal. You can tell when a person is attempting to\nproject a false impression through body language.</p>\n\n<p>Certain individuals may be so adept at lying that they never set off\nyour bullshit detector. Some people believe their own falsehoods.\nPsychopathic personality types lie reflexively and without shame,\ndepriving you of the telltale tics and gestures you use to sense when a\nperson is deceiving you. Sometimes you need leverage to get information\nout of people who you know are lying -- re-interviewing suspects in the\nlight of additional facts is a genre staple.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Bureaucracy",
+    "ability_type": "Interpersonal",
+    "description": "<p>You know how to navigate a bureaucratic organization, whether it's a\ngovernmental office or a large business concern. You know how to get\nwhat you want from it in an expeditious manner, and with a minimum of\nruffled feathers. You can:</p>\n\n<ul>\n<li>convince officials to provide sensitive information</li>\n<li>gain credentials on false pretences</li>\n<li>find the person who really knows what's going on</li>\n<li>locate offices and files</li>\n<li>borrow equipment or supplies</li>\n</ul>\n\n<p>Bureaucracy is not a catch-all information gathering ability.\nBureaucrats wish to convey the impression that they are busy and\nharried, whether or not they actually are. Most take a profound, secret\njoy in directing inquiries elsewhere. When players attempt to use\nBureaucracy to gain information more easily accessible via other\nabilities (such as Research), their contacts snidely advise them to do\ntheir own damn legwork.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Camping",
+    "ability_type": "Technical",
+    "description": "<p>You are familiar with working and living outdoors and in the wild. You\nmight be a farmer, cowboy, or logger, or an amateur (or professional)\nfisher or hunter, or work for the Park Service. Perhaps you were merely\nan Eagle Scout, grew up in the back of nowhere, or served in a military\nunit with sufficient patrol experience \"in country.\" You can:</p>\n\n<ul>\n<li>tell when an animal is behaving strangely</li>\n<li>tell whether an animal or plant is natural to a given area</li>\n<li>find edible plants, hunt, and fish</li>\n<li>make fire and survive outdoors at night or in bad weather</li>\n<li>navigate overland, albeit more easily with a compass and a map</li>\n<li>track people, animals, or vehicles across grass or through forests</li>\n<li>hunt with dogs, including tracking with bloodhounds, assuming you have friendly dogs available</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Chemistry",
+    "ability_type": "Technical",
+    "description": "<p>You're trained in the analysis of chemical substances. You can:</p>\n\n<ul>\n<li>among a wide variety of other materials, identify drugs, pharmaceuticals, toxins, and viruses</li>\n<li>match samples of dirt or vegetation from a piece of evidence to a scene</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Craft",
+    "ability_type": "Technical",
+    "description": "<p>You can create useful physical objects, working with materials like\nwood, metal, jewelry, and so forth. Although the resulting cabinets,\nkettles, or rings may be beautiful, your focus is utility, not art. Like\nthe Art ability, you may focus on one craft (blacksmithing, cabinetry,\ncoopering, etc) or diversify into many; the same rules apply.</p>\n\n<p>You may be able to use your Craft ability to specific investigative\nends: discover a secret drawer in a desk if you are a cabinet-maker, and\nso forth.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Comparative Religion",
+    "ability_type": "Academic",
+    "description": "<p>You study religions in their various forms, both ancient and modern. You\ncan:</p>\n\n<ul>\n<li>supply information about religious practices and beliefs</li>\n<li>quote relevant tags from the major scriptures</li>\n<li>recognize the names and attributes of various saints, gods, and other figures of religious worship and veneration</li>\n<li>identify whether a given religious practice or ritual is orthodox or heretical</li>\n<li>fake (or in some traditions, officiate at) a religious ceremony</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Cop Talk",
+    "ability_type": "Interpersonal",
+    "description": "<p>You know how to speak the lingo of police officers, and to make them\nfeel confident and relaxed in your presence. You may be a current or\nformer cop, or simply the kind of person they immediately identify as a\nsolid, trustworthy citizen. You can:</p>\n\n<ul>\n<li>coolly ply cops for confidential information</li>\n<li>get excused for minor infractions</li>\n<li>imply that you are a colleague, authorized to participate in their cases</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Counterinsurgency",
+    "ability_type": "Technical",
+    "description": "<p>As a former insurgent yourself, you can now turn the tables and read\nscenes of sabotage and terrorism for clues leading to the perpetrators.\nThat's helpful, because these days the rebels are Castaignite\ndead-enders who want to bring back the old dictatorship.</p>\n\n<p>You can:</p>\n\n<ul>\n<li>identify the munitions or weaponry used to stage an attack</li>\n<li>tell whether a gun has been recently fired</li>\n<li>find hidden weapons and bombs</li>\n<li>spot the best places to lie in wait, with or without a sniper rifle</li>\n<li>look at a location, see how you would attack it, and describe both how the assault would go down and what you'd do to stop it</li>\n<li>spot supposedly casual onlookers who are in fact sizing up the area, just like you are</li>\n</ul>\n\n<p>On a spend/Push, gain a favor from a fellow member of the movement.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Cryptography",
+    "ability_type": "Technical",
+    "description": "<p>You're an expert in the making and breaking of codes, from the simple\nciphers of old-school espionage tradecraft to the supercomputer\nalgorithms of the present day.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Culture",
+    "ability_type": "Academic",
+    "description": "<p>As a general follower of the arts, your knowledge fills in the gaps\nbetween other characters' more form-specific awareness of the city's\ncultural scene. You know the people, trends, and venues of such art\nforms as:</p>\n\n<ul>\n<li>dance</li>\n<li>music</li>\n<li>drama</li>\n<li>opera</li>\n<li>music hall</li>\n<li>ceramics</li>\n<li>calligraphy</li>\n<li>stage magic</li>\n<li>clowning, mime, and circus performance</li>\n<li>(if applicable to your period) cinema</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Data Retrieval",
+    "ability_type": "Technical",
+    "description": "<p>You use computer and electronic technology to retrieve and enhance\ninformation on hard drives and other media. You can:</p>\n\n<ul>\n<li>recover hidden, erased or corrupted computer files</li>\n<li>increase the clarity of audio recordings, zeroing in on desired elements</li>\n<li>miraculously find detailed, high-resolution images within a blurry video image or blurry JPEG</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Document Analysis",
+    "ability_type": "Technical",
+    "description": "<p>You're an expert in the study of physical documents. You can:</p>\n\n<ul>\n<li>determine a document's approximate age</li>\n<li>identify the manufacturer of paper used in a document</li>\n<li>tell forged documents from the real thing</li>\n<li>identify distinctive handwriting</li>\n<li>match typed documents to the typewriters that produced them</li>\n<li>find fingerprints on paper</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Electronic Surveillance",
+    "ability_type": "Technical",
+    "description": "<p>You're adept at the use of sound recording equipment to gather evidence.\nYou can:</p>\n\n<ul>\n<li>trace phone calls</li>\n<li>plant secret listening devices</li>\n<li>locate secret listening devices planted by others</li>\n<li>make high-quality audio recordings</li>\n<li>enhance the quality of audio recordings, isolating chosen sounds</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Evidence Collection",
+    "ability_type": "Technical",
+    "description": "<p>You're adept at finding, bagging and tagging important clues. You can:</p>\n\n<ul>\n<li>spot objects of interest at a crime scene or other investigation site</li>\n<li>note relationships between objects at a crime scene, reconstructing sequences of events</li>\n<li>store objects for forensic analysis without contaminating your samples</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Explosive Devices",
+    "ability_type": "Technical",
+    "description": "<p>You're an expert in bombs and booby-traps. You can:</p>\n\n<ul>\n<li>defuse bombs and traps</li>\n<li>reconstruct exploded bombs, determining their materials, manufacture, and the sophistication of the bomb-maker</li>\n<li>safely construct and detonate explosive devices of your own</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Fashion",
+    "ability_type": "Academic",
+    "description": "<p>Being conversant with all aspects of the garment trade, from high to\nlow, you can:</p>\n\n<ul>\n<li>evaluate a garment's workmanship</li>\n<li>use technical terms of the clothing trade</li>\n<li>identify the designer of a particular high-end garment</li>\n<li>read clothing labels, no matter how obscure, tracing items to their makers</li>\n<li>tell from its style how old a garment is</li>\n<li>spot the differences between an authentic piece from a noted couturier and an imitation</li>\n<li>identify the source and type of toiletry items</li>\n<li>combine clothing items for maximum effect</li>\n<li>apply makeup and style hair</li>\n<li>elicit information from workers in the fashion industry, from top designers to harried seamstresses</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Farming",
+    "ability_type": "Technical",
+    "description": "<p>Your knowledge of agriculture starts with the practical and may extend\nto the theoretical. Possible uses while investigating mysteries include:</p>\n\n<ul>\n<li>distinguishing between normal and abnormal domestic animal behavior</li>\n<li>telling which dangerous farm implement caused those wounds</li>\n<li>identifying the source of crop damage, if natural, or aver that crops have been damaged by no ordinary cause</li>\n<li>predicting upcoming weather</li>\n<li>recounting the superstitions, wives' tales, and folkways of a rural community</li>\n</ul>\n\n<p>Make a spend/Push to find a hidden food cache, refreshing your\nScrounging pool.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Fingerprinting",
+    "ability_type": "Technical",
+    "description": "<p>You're an expert in finding, transferring and matching fingerprints.\nThis includes expertise in the computer software used to compare sample\nfingerprints against large databases of criminal defendants and\ngovernment personnel.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Flattery",
+    "ability_type": "Interpersonal",
+    "description": "<p>You're good at getting people to help you by complimenting them, as\nsubtly or blatantly as they prefer. You can get them to:</p>\n\n<ul>\n<li>reveal information</li>\n<li>perform minor favors</li>\n<li>regard you as trustworthy.</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Flirting",
+    "ability_type": "Interpersonal",
+    "description": "<p>You're adept at winning cooperation from people who find you sexually\nattractive. You can get them to:</p>\n\n<ul>\n<li>reveal information</li>\n<li>help you in small ways</li>\n<li>date you</li>\n</ul>\n\n<p>It's up to you whether a high rating in Flirting means that you are\nphysically alluring, or simply exude a sexual magnetism unrelated to\nyour looks.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Forensic Accounting",
+    "ability_type": "Academic",
+    "description": "<p>You comb through financial data looking for irregularities. In the words\nmade famous during Woodward and Bernstein's investigation of the\nWatergate scandal, you know how to \"follow the money.\" You can:</p>\n\n<ul>\n<li>tell legitimate businesses from criminal enterprises</li>\n<li>spot the telltale signs of embezzlement</li>\n<li>track payments to their source</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Forensic Anthropology",
+    "ability_type": "Technical",
+    "description": "<p>You perform autopsies on deceased subjects to determine their cause of\ndeath. In the case of death by foul play, your examination can identify:</p>\n\n<ul>\n<li>the nature of the weapon or weapons used</li>\n<li>the presence of intoxicants or other foreign substances in the bloodstream</li>\n<li>the contents of the victim's last meal</li>\n</ul>\n\n<p>In many cases, you can reconstruct the sequence of events leading to the\nvictim's death from the arrangement of wounds on the body.</p>\n\n<p>You also perform DNA analysis on samples found at crime scenes, matching\nthem to samples provided by suspects.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Forensic Entomology",
+    "ability_type": "Technical",
+    "description": "<p>You specialize in the relationship between corpses and the legions of\ninsects who dine on them. By studying eggs and larvae in a decomposing\ncorpse you can:</p>\n\n<ul>\n<li>determine approximate time of death</li>\n<li>identify a crime scene, in the case of a dumped body</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Forensic Psychology",
+    "ability_type": "Academic",
+    "description": "<p>You apply psychological insight to the solving of criminal cases. From\nthe details of a crime scene, you can, based on past case studies of\nsimilar offenses, assemble a profile detailing the perpetrator's likely\npersonal history, age, habits and attitudes.</p>\n\n<p>You can also glean useful information from simple observation of certain\nindividual, especially as they react to pressure.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Forgery",
+    "ability_type": "Technical",
+    "description": "<p>You fake documents, art, and identification. Given time, originals (or\ngood copies), suitable materials, and work space, you can:</p>\n\n<ul>\n<li>create a false identification, license, traveling paper, or other government credential</li>\n<li>quickly create digital records and a false Internet history</li>\n<li>forge handwriting with a sample to work from</li>\n<li>fake a book, pamphlet, newspaper, or other published work</li>\n<li>forge a sculpture, painting, or other objet d'art</li>\n<li>artificially age paper and ink</li>\n<li>spot forgeries, and make intelligent deductions about the forger</li>\n<li>undetectably open and reseal a sealed envelope, document, pouch, or other \"soft\" container</li>\n<li>create an attractive, if somewhat uninspired, work of art on a subject of your choosing</li>\n</ul>\n\n<p>Forgery is also useful for larger, detail-oriented investigative work.\nYou can also use Forgery to construct a fake crime scene, or to clean up\nan actual crime scene so as to make it look as if no crime occurred.\nAfter secretly searching a room, the visual memory you gain from Forgery\nwill tell you if you've accidentally left any item out of place.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Geology",
+    "ability_type": "Academic",
+    "description": "<p>You are an expert on rocks, soils, minerals, and the primordial history\nof the Earth. You can:</p>\n\n<ul>\n<li>analyze soil samples, crystals, minerals, and so forth</li>\n<li>determine the age of a rock stratum</li>\n<li>date and identify fossils</li>\n<li>evaluate soil for agriculture or industry</li>\n<li>identify promising sites for oil or water wells, mines, etc</li>\n<li>anticipate volcanism, seismic events, avalanches, and other earth phenomena</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Hacking",
+    "ability_type": "Technical",
+    "description": "<p>You use computer and electronic technology to retrieve and enhance\ninformation on computers and other information devices, from punch cards\nto future-tech.</p>\n\n<p>You're also an expert in math, logic, and the making and breaking of\ncodes. Given time and computing power, you can unravel everything from\nsimple ciphers to the supercomputer algorithms of the future. You can:</p>\n\n<ul>\n<li>hack into secure computer systems to gather clues</li>\n<li>recover hidden, erased, or corrupted computer files</li>\n<li>increase the clarity of audio or video recordings, zeroing in on desired elements</li>\n<li>break codes in any language you can read</li>\n<li>deduce logic puzzles and calculate complex mathematical formulas</li>\n<li>use Burglary to break into particularly high-tech security systems</li>\n<li>use Tinkering as a computer skill, should a Hacking-related General ability test be needed for any reason (such as active opposition by an opposed hacker)</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "High Society",
+    "ability_type": "Interpersonal",
+    "description": "<p>You know how to hang with the rich and famous, and how to chat them up\nwithout getting security called. You are comfortable with \"old money\"\naristocracy, with the Davos elite, with the televised chattering\nclasses, and with the crassest of nouveau riche vulgarians and\ncelebutantes. Yachts, Gulfstreams, and three-star restaurants are your\nseeming natural habitat. You can:</p>\n\n<ul>\n<li>dress fashionably for any occasion</li>\n<li>get past the velvet rope at exclusive clubs and parties, or past the\nconcierge at a four-star hotel</li>\n<li>drop brand names, allude to current trends, and generally blend in\nculturally with rich scenesters of all types</li>\n<li>identify the best wine, liquor, food, jewelry, and other luxury\ngoods</li>\n<li>successfully schmooze for an introduction to, e.g., a celebrity,\nelected official, or financier</li>\n<li>recall specific or relevant gossip or news about the tastes,\nlifestyles, or sordid behavior of a rich or famous person</li>\n<li>know where and when the best parties, most culturally important\nopenings, or other gala events in any city are due to happen</li>\n<li>score drugs or otherwise find the seamy side (if any) of\nhigh-society functions, happening nightclubs, etc.</li>\n<li>interact with the rich and famous as an accepted equal</li>\n</ul>\n\n<p>Note that this ability does not necessarily convey any actual wealth or\nfame. The Director can, if she wishes, allow an agent to use family\nconnections or a liberated Company slush fund to explain it.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "History",
+    "ability_type": "Academic",
+    "description": "<p>You're an expert in recorded human history, with an emphasis on its\npolitical, military, and economic and technological developments. You\ncan:</p>\n\n<ul>\n<li>recognize obscure historical allusions</li>\n<li>recall capsule biographies of famous historical figures</li>\n<li>tell where and when an object made during historical times was fashioned</li>\n<li>identify the period of an article of dress or costume</li>\n</ul>\n\n<p><em>[For TimeWatch, History may be split into Ancient, Contemporary and\nFuture abilities.]</em></p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Impersonate",
+    "ability_type": "Interpersonal",
+    "description": "<p>You're good at posing as another person, whether briefly misrepresenting\nyourself during a phone call or spending long periods undercover in a\nfictional identity.</p>\n\n<p>Successfully disguising yourself as an actual person known to those\nyou're interacting with is extraordinarily difficult. Brief voice-only\nmimicry requires a spend of at least 1.</p>\n\n<p>Face-to-face impersonation requires a spend of at least 2 to 3 points\nfor every five minutes of sustained contact between you and the object\nof your impersonation. Especially wary or intelligent subjects cost more\nto hoodwink than dull-witted walk-on characters.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Inspiration",
+    "ability_type": "Interpersonal",
+    "description": "<p>You convince reluctant witnesses to supply information by appealing to\ntheir better selves. After a few moments of interaction you intuitively\nsense the positive values they hold dearest, then invoke them in a brief\nbut stirring speech.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Interrogation",
+    "ability_type": "Interpersonal",
+    "description": "<p>You're trained in extracting information from suspects and witnesses in\nthe context of a formal police-style interview. This must take place in\nan official setting, where the subject is confined or feels under threat\nof confinement, and recognizes your authority (whether real or feigned.)</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Intimidation",
+    "ability_type": "Interpersonal",
+    "description": "<p>You elicit cooperation from suspects by seeming physically imposing,\ninvading their personal space, and adopting a psychologically commanding\nmanner. Intimidation may involve implied or direct threats of physical\nviolence but is just as often an act of mental dominance. You can:</p>\n\n<ul>\n<li>gain information</li>\n<li>inspire the subject to leave the area</li>\n<li>quell a subject's desire to attempt violence against you or others</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Intuition",
+    "ability_type": "Technical",
+    "description": "<p>Your acute attention to inexpressible details in your environment allows\nyou to make instinctive leaps of logic you can't entirely explain. You\ncan sense when a person or place has been touched by eerie influence.</p>\n\n<p>On first meeting, you can sense strangers' motivations and guess at the\ndramatic events that drive them. This happens only when you know nothing\nabout them beforehand.</p>\n\n<p>Occasionally you spot, unbidden, a surprising and enlightening\nconnection between two apparently disconnected elements of a place\nyou're seeing for the first time. For example:</p>\n\n<ul>\n<li>when entering a château, you might suddenly and correctly guess that an item is hidden amid the ashes of its fireplace</li>\n<li>in an asylum, you might realize that a withdrawn patient is having an affair with the chief administrator</li>\n<li>in a roadside tavern, you might intuit that the smell of meat simmering from the kitchen comes from human flesh</li>\n</ul>\n\n<p>When you first read this description, you may worry that it's too\npowerful. There's a catch, though! Intuition is a most capricious\nquality: it works only when it suits the GM's purposes in moving the\nstory forward. Otherwise, you and the rest of the group have to rely on\npractical abilities, not hunches.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Languages",
+    "ability_type": "Academic",
+    "description": "<p>For each rating point in Languages, you are verbally fluent and literate\nin one language other than your native tongue. You may specify these\nwhen you create your character, or choose opportunistically in the\ncourse of play, revealing that you just happen to speak Javanese when\ncircumstances require it. You are not learning the language\nspontaneously but revealing a hitherto unmentioned fact about your\ncharacter. You may elect to be literate in an ancient language which is\nno longer spoken.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Leadership",
+    "ability_type": "Interpersonal",
+    "description": "<p>Gain information from others who are your inferiors in the military\nhierarchy, and from others, civilians included, who crave or respect\nformal assertions of authority.</p>\n\n<p>Make a spend/Push to impel soldiers lower than you, in your chain of\ncommand, to execute an order not only diligently but to the absolute\ntiptop of their ability.</p>\n\n<p>Make a spend/Push to gain calm and cooperation from civilians who desire\norder or clear direction.</p>\n\n<p>Make a spend/Push to impress a superior with your ability to command\nyour inferiors, gaining recognition or assistance.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Law",
+    "ability_type": "Academic",
+    "description": "<p>You are familiar with the criminal and civil laws of your home\njurisdiction, and broadly acquainted with foreign legal systems. At a\nrating of 2 or more, you are a bar-certified attorney. You can:</p>\n\n<ul>\n<li>assess the legal risks attendant on any course of action</li>\n<li>understand lawyerly jargon</li>\n<li>argue with police and prosecutors</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Linguistics",
+    "ability_type": "Academic",
+    "description": "<p>You are an expert in the principles and structures underlying languages.\nYou can probably speak other Languages, but that is a separate ability\nthat must be purchased separately. You can:</p>\n\n<ul>\n<li>given a large enough sample of text, decipher the basic meaning of an unknown language</li>\n<li>identify the languages most similar to an unknown language</li>\n<li>identify artificial, alien and made-up languages</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Locksmith",
+    "ability_type": "Technical",
+    "description": "<p>You can open doors and locks, and disarm alarms, without benefit of the\nkey. (You can also find convenient windows to jimmy or coal-cellar doors\nto force, if need be.) Many locks require specialized tools, possession\nof which without a locksmith's license is a criminal offense in most\njurisdictions. Very complex or tricky locks may require spends to open\nthem speedily, to avoid noise or damage, or to relock afterward.</p>\n\n<p>Using Locksmith is, in other words, a way to gather clues. A lock that\nwon't open is like a witness that won't talk or a bloodstain you can't\nfind: antithetical to mystery-solving, investigative-adventure design.\nOnly safes, bank vaults, and the like -- locks that exist to drive drama\nor conflict, rather than locks which merely hold clues --- require\nactual tests against Difficulty.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Medical Expertise",
+    "ability_type": "Technical",
+    "description": "<p>You are trained in carrying out medical examinations of living human\nsubjects, performing autopsies on the deceased, and forming diagnoses\nbased on your findings. With 2 or more points of Medical Expertise you\nare likely a trained and certified doctor. You can:</p>\n\n<ul>\n<li>establish a person's general level of health</li>\n<li>prescribe treatment for a treatable condition</li>\n<li>perform autopsies</li>\n<li>diagnose probable causes of addiction, disease, sickness, injury, poisoning, or death</li>\n<li>tell if a subject is a shape-shifted nonhuman</li>\n<li>perform DNA analysis on subjects, identifying their likely relatives</li>\n<li>interact with medical professionals as a peer, understanding medical jargon and practices from throughout history</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Military History",
+    "ability_type": "Academic",
+    "description": "<p>Having studied wars and warfare, you can:</p>\n\n<ul>\n<li>inspect weapons, identifying their approximate age, condition, country of origin, and manufacturer, specifying whether they were made for civilian or military use</li>\n<li>identify battlefields, reconstructing the engagements fought there</li>\n<li>recall famous battles and the tactics that determined their victors</li>\n<li>tell the rank and specialty of a soldier, past or present, from their uniform</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Military Tactics",
+    "ability_type": "Academic",
+    "description": "<p>You are a student of warfare, probably trained as such in a military\nacademy or through hard experience on a battlefield. This expertise\nincludes a knowledge of military history, strategy, and tactics, and the\nweapons, technologies, and engineering techniques of the battlefield.\nYou can:</p>\n\n<ul>\n<li>identify an unknown military or paramilitary force by examining the weapons, uniforms, or insignia they use</li>\n<li>deduce a soldier's training and assignment history from his demeanor and use of slang and jargon</li>\n<li>spot weaknesses in an enemy's fortifications or tactics</li>\n<li>know the key turning point of a historical battle</li>\n<li>deduce whether a battle is being won through the use of anachronistic technology or tactics</li>\n<li>analyze the effectiveness of an enemy's battle tactics</li>\n<li>examine traces of a hand-to-hand skirmish and recreate the fight</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Natural History",
+    "ability_type": "Academic",
+    "description": "<p>You study the evolution, behavior, and biology of plants and animals.\nYou can:</p>\n\n<ul>\n<li>tell when an animal is behaving strangely</li>\n<li>tell whether an animal or plant is natural to a given area</li>\n<li>identify an animal from samples of its hair, blood, bones or other tissue</li>\n<li>identify a plant from a small sample</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Negotiation",
+    "ability_type": "Interpersonal",
+    "description": "<p>You are an expert in making deals with others, convincing them that the\nbest arrangement for you is also the best for them. You can:</p>\n\n<ul>\n<li>haggle for goods and services</li>\n<li>mediate hostage situations</li>\n<li>swap favors or information with others</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Notice",
+    "ability_type": "Technical",
+    "description": "<p>You are adept at noticing subtle details and finding important clues.\nThis is the generic ability for spotting a hidden clue or a disguised\nimposter, maintaining general situational awareness, or noticing a\nnonthreatening visual anomaly. You can:</p>\n\n<ul>\n<li>spot hidden objects and objects of interest at an investigation site</li>\n<li>notice subtle errors in a disguise</li>\n<li>case a location to spot guards, cameras, multiple entrances, potential security response, and the like</li>\n<li>notice signs of a previous search of the location</li>\n<li>find anachronistic technology that is currently in use, or signs of future tech that has recently been used in a location</li>\n<li>note relationships between objects at a crime scene, reconstructing sequences of events</li>\n<li>cold read someone, analyzing their body language and behavior to draw conclusions about them</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Occult Studies",
+    "ability_type": "Academic",
+    "description": "<p>You're an expert in the historical study of magic, superstition, and\nhermetic practice from the stone age to the present. From Satanists to\nthe Golden Dawn, you know the dates, the places, the controversies, and\nthe telling anecdotes. You can:</p>\n\n<ul>\n<li>identify the cultural traditions informing a ritual from examining its physical aftermath</li>\n<li>supply historical facts concerning various occult traditions</li>\n<li>guess the intended effect of a ritual from its physical aftermath</li>\n<li>identify occult activities as the work of informed practitioners, teenage posers, or <em>bona fide</em> Esoterrorists</li>\n</ul>\n\n<p>Your knowledge of the occult is that of a detached, even disapproving,\noutsider. This ability does not allow you to work magic or summon\nsupernatural entities. Doing either of these things is bad, the work of\nEsoterrorists. It weakens the fabric of reality and warps the\npractitioner's psyche. You can, at best, fake your way through a ritual\nwhile attempting to pass yourself off as a believer. Even in this\nsituation, your actions do not evoke supernatural effects. Your covertly\nhostile presence may, in fact, be enough to prevent an Esoterror ritual\nfrom achieving efficacy.</p>\n\n<p>As mentioned earlier, all characters built for the Esoterrorist setting\nget Occult Studies 1 for free.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Oral History",
+    "ability_type": "Interpersonal",
+    "description": "<p>You can find sources willing to talk, win their confidence, and gather\n(usually lengthy) oral testimony about historical events, local\ntraditions, folklore, family legend, or gossip. This is an excellent way\nto do research in illiterate or semi-literate societies, and in rural or\nsmall-town communities in general. This ability also covers taking\nshorthand notes or making recordings without spooking your sources.</p>\n\n<p>Against an armored enemy during a fight, spending 1 or more points of\nNotice might allow you to target unarmored portions of their body for\nseveral rounds, ignoring part or all of their armor when calculating\ndamage.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Outdoor Survival",
+    "ability_type": "Technical",
+    "description": "<p>You have lived and worked outdoors and in the wild, possibly during a\nrural upbringing or isolated military service. You can:</p>\n\n<ul>\n<li>accurately determine the weather for the next day</li>\n<li>tell when an animal is acting strangely</li>\n<li>tell whether an animal or plant is natural to a given area and time</li>\n<li>hunt, fish, and find edible plants</li>\n<li>ride a horse (using Athletics to determine how well)</li>\n<li>make fire and survive outdoors at night or in bad weather</li>\n<li>navigate overland</li>\n<li>track people, animals, or vehicles across grass or through forests</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Painting",
+    "ability_type": "Technical",
+    "description": "<p>As a fine art painter of some promise, you can:</p>\n\n<ul>\n<li>make quick sketches to retain the key details of a scene</li>\n<li>remember and distinguish faces and postures of individuals you see in person, no matter how briefly</li>\n<li>detect unnatural elements in a landscape, for example, a real-life error of perspective suggesting its corruption by alien physics</li>\n<li>tell forgeries from genuine works</li>\n<li>determine whether two pictures were produced by the same hand</li>\n</ul>\n\n<p>Making a noteworthy painting requires a spend/Push.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Pathology",
+    "ability_type": "Academic",
+    "description": "<p>You are trained in carrying out medical examinations of living human\nsubjects and forming diagnoses based on your findings. You can</p>\n\n<ul>\n<li>diagnose probable causes of sickness or injury</li>\n<li>identify the extent and cause of an unconscious person\\'s trauma</li>\n<li>detect when a person is suffering from a physically debilitating condition such as drug addiction, pregnancy or malnutrition</li>\n<li>establish a person\\'s general level of health</li>\n<li>identify medical abnormalities</li>\n</ul>\n\n<p>If you have 8 or more points in <strong>Medic</strong> you get <strong>Pathology</strong> 1 for\nfree.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "People Person",
+    "ability_type": "Interpersonal",
+    "description": "<p>\"Hey, I think my sister works with your aunt!\"</p>\n\n<p>You can make a new acquaintance from any walk of life feel like your new\nbest friend. You chat with folks, learn their stories, and file them in\nyour ever-expanding memory vault. You foster a comfort level that leads\nthem to talk without even realizing that they've let their guard down.\nYou can:</p>\n\n<ul>\n<li>recall gossip and details about prominent but non-famous people, including details of their careers, romantic lives, and connections to the old regime or People's Congress</li>\n<li>deduce details of a person's biography from the way they speak, dress, and hold themselves</li>\n<li>reliably intuit whether an otherwise unknown individual you're meeting in person for the first time fought for or against the Castaignes, or sat the revolution out</li>\n<li>observe a group of people and see who hates who, who's sleeping with who, and who wishes they were sleeping with who</li>\n<li>divine the nature of a person's ambitions from innocuous small talk</li>\n</ul>\n\n<p>On a spend/Push, get practical assistance, rather than information, from\nsomeone you just met.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Photography",
+    "ability_type": "Technical",
+    "description": "<p>You're proficient in the use of cameras, including still and video\nphotography. You can:</p>\n\n<ul>\n<li>take useful visual records of crime scenes</li>\n<li>spot manual retouching or digital manipulation in a photographic or video image</li>\n<li>realistically retouch and manipulate images</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Poetry",
+    "ability_type": "Academic",
+    "description": "<p>You study poetry, and write your own. You can recall a variety of\nhistorical facts about any culture or era that gave birth to poetry of\nany kind, from the Sumerians to today. You know Paris' poets,\nunderstanding their rivalries and alliances, and can successfully pass\nyourself off as an aficionado of any school. You can rattle off the\nrequirements of any form, from the quatrain to the sonnet.</p>\n\n<p>An improvised poem may induce cooperation from anyone who appreciates\nthe form. This costs you nothing when you seek information. Other favors\nrequire a spend/Push.</p>\n\n<p>To write a memorable poem, make a spend/Push.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Reassurance",
+    "ability_type": "Interpersonal",
+    "description": "<p>You get people to do what you want by putting them at ease. You can:</p>\n\n<ul>\n<li>elicit information and minor favors</li>\n<li>allay fear or panic in others</li>\n<li>instill a sense of calm during a crisis</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Research",
+    "ability_type": "Academic",
+    "description": "<p>You know how to find factual information from books, records, and\nofficial sources. You're as comfortable with a card catalog and fiche\nreader as with an Internet search engine. The contacts file on your\npersonal digital assistant brims with phone numbers of exotic and useful\ncontacts.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Respect",
+    "ability_type": "Interpersonal",
+    "description": "<p>Your knowledge of social rituals allows you to gain information and\nfavors with a culturally appropriate show of respect for a subject. This\nability applies to subjects who consider themselves figures of\nauthority, or who hold real or imagined power over you. By showing\nrespect, you preserve your status as well as the subject's.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Salt of the Earth",
+    "ability_type": "Interpersonal",
+    "description": "<p>As a farmer or other humble laborer, you get along well with peasants\nand other ordinary folk. You can:</p>\n\n<ul>\n<li>gain their trust, getting them to reveal information they wouldn't share with a bourgeois or high-hat</li>\n<li>tell whether a manual task has been done well or poorly</li>\n<li>at a glance, tell whether a peasant is hardworking or lazy, clever or dimwitted, guileless or treacherous</li>\n<li>understand the limits of rural civilian cooperation</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Science!",
+    "ability_type": "Technical",
+    "description": "<p>You're a scientific and engineering expert, knowledgeable about\nastronomy, biology, chemistry, physics, and other forms of science. If\nyou have 1 or more points in this ability you may use the General\nability Tinkering to fix advanced, high-tech machinery that the GM might\notherwise not let you repair.</p>\n\n<p>This ability does not cover chronal mechanics, which fall under the\nability Timecraft. Computer-related knowledge falls under the ability\nHacking.</p>\n\n<p>You can:</p>\n\n<ul>\n<li>quickly develop theories and conclusions about scientific phenomena</li>\n<li>make rapid mathematical calculations and determine orbital mechanics</li>\n<li>identify drugs and synthesize most chemical compounds if given an adequate laboratory</li>\n<li>determine the usage of mysterious scientific equipment or control panels in an unfamiliar ship or laboratory</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Sculpture",
+    "ability_type": "Technical",
+    "description": "<p>As a sculptor of some promise, you know the history and practice of the\nform. You can:</p>\n\n<ul>\n<li>identify the era and culture of archaeological sculptures and objects</li>\n<li>look at a work and name its maker, if he is a known figure, no matter how obscure</li>\n<li>tell a fake from the genuine item</li>\n<li>discourse on metallurgy</li>\n<li>distinguish various sorts of clay from one another</li>\n<li>calculate how much weight a floor can support</li>\n</ul>\n\n<p>To create a memorable work, make a spend/Push.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Society",
+    "ability_type": "Interpersonal",
+    "description": "<p>Accustomed to traveling in polite society, you understand the etiquette\nand mores of the ruling class and <em>haute bourgeoisie</em>. You gain\ncooperation and information from persons of good standing by winning\ntheir trust, as one who knows how to behave and exercise discretion. You\nknow where these people live and how to gain entrance to their parlors\nto talk to them without arousing suspicion. Regular study of the society\npages keeps you up to date on all of the latest betrothals, marriages,\nbirths, and business arrangements. On a spend/Push, you can gain\nnon-informational favors from society types.</p>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Spying",
+    "ability_type": "Technical",
+    "description": "<p>You're adept with the art of spying, including spycraft, countersigns,\nsafe houses, electronic surveillance, and the use of surreptitious\nphotographic and sound-recording equipment. Using either your tether or\ncontemporary technology, you can:</p>\n\n<ul>\n<li>trace phone calls</li>\n<li>hijack security cameras</li>\n<li>plant secret listening devices, and locate devices planted by others</li>\n<li>make and enhance high-quality visual records and audio recordings</li>\n<li>realistically manipulate audio, photographs, or video images</li>\n<li>ensure with some certainty that you are not being spied upon</li>\n<li>pass as a spy, whether to someone looking to hire a spy or to an actual agent in the intelligence community</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Streetwise",
+    "ability_type": "Interpersonal",
+    "description": "<p>You know how to behave among crooks, gang-bangers, druggies, hookers and\nother habitués of the criminal underworld. You can:</p>\n\n<ul>\n<li>deploy criminal etiquette to avoid fights and conflicts</li>\n<li>identify unsafe locations and dangerous people</li>\n<li>gather underworld rumors</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Taunt",
+    "ability_type": "Interpersonal",
+    "description": "<p>You are an expert at infuriating others, driving them to such fury that\nthey let their secrets slip. This may be accomplished through sarcasm,\ndisdain, mocking, insults, or public humiliation.</p>\n\n<p>However you manage it, you know how to make people angry enough to talk\nbefore thinking, and you know how to steer the conversation once you do.\nYou can:</p>\n\n<ul>\n<li>gain clues by making a subject too angry to think straight</li>\n<li>drive an antagonist into a furious monologue</li>\n<li>know when a threat is sincere, and when it's just posturing</li>\n<li>cause a supporting character to boast about her plans while insulting or threatening you in return</li>\n<li>make a subject desire to attempt violence against you or others</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Terrain",
+    "ability_type": "Technical",
+    "description": "<p>You understand geography from a warrior's point of view. You can:</p>\n\n<ul>\n<li>read maps</li>\n<li>point out anomalies and mistakes on maps</li>\n<li>spot the best available sniper position</li>\n<li>distinguish readily defensible positions from those the enemy will easily overrun</li>\n<li>find good places to hide---which are also likely spots to be ambushed from</li>\n<li>tell when something bizarre has affected the landscape</li>\n<li>predict lighting conditions in a given location at various times of day under various degrees of cloud cover</li>\n<li>rattle off the current lunar phase without resorting to an almanac</li>\n<li>orient yourself without a compass</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Textual Analysis",
+    "ability_type": "Academic",
+    "description": "<p>By studying the content of texts (as opposed to their physical\ncharacteristics of documents) you can draw reliable inferences about\ntheir authorship. You can:</p>\n\n<ul>\n<li>determine if an anonymous text is the work of a known author, based on samples of his work</li>\n<li>determine the era in which a text was written</li>\n<li>identify the writer's region, and level of education</li>\n<li>tell a real work by an author from a false one</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Tradecraft",
+    "ability_type": "Interpersonal",
+    "description": "<p>You know how to utilize the techniques of conventional espionage agents,\nand how to talk to them if you must hold a meet. You can:</p>\n\n<ul>\n<li>set up and check a dead drop</li>\n<li>spot or conduct a brush pass or car toss</li>\n<li>determine which agency trained a covert operative by examining his tradecraft, surveillance methods, etc.</li>\n<li>identify good places for recognition signs, cleaning passes, etc.</li>\n<li>recall notorious or relevant episodes of spying, covert ops, etc.</li>\n<li>gather rumors in the covert ops world</li>\n<li>make contact with operatives without scaring them off</li>\n<li>convey information or threats elliptically without tipping off eavesdroppers</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Traffic Analysis",
+    "ability_type": "Technical",
+    "description": "<p>You know how to boil down a mass of data --- probably raw signals intel,\na tranche of phone records, or possibly a whole lot of surveillance\ntapes --- and extract its meaning and patterns. Given the data, you can:</p>\n\n<ul>\n<li>determine which numbers in a set of phone records are calling who, when, about what</li>\n<li>determine which cars in a city's traffic pattern are driving where, when, and how long they're staying there</li>\n<li>find patterns in the data flow, e.g., more murders in August, or the same museum guard on duty during all the incidents</li>\n<li>work out the daily (and weekly, monthly, etc.) routine of an office, military base, museum, etc. and answer questions like: When is payroll made? Who takes delivery of parcels? When does the cleaning staff arrive?</li>\n<li>find anomalies in the data flow, e.g., missing records or \"dogs that didn't bark\"</li>\n<li>find weak spots in security that follows a regular pattern</li>\n<li>identify the source of information (or disinformation) by tracking its route through the system</li>\n<li>assemble a communications or organizational picture of a social network such as a criminal conspiracy, academic email list, or division of border guards</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "investigative",
+    "ability_name": "Trivia",
+    "ability_type": "Academic",
+    "description": "<p>You're a font of apparently useless information that would stand you in\ngood stead as a contestant on a quiz show. You're especially good in the\nfollowing spheres of interest:</p>\n\n<ul>\n<li>celebrities and entertainment</li>\n<li>sports records and statistics</li>\n<li>geography</li>\n<li>arts and letters</li>\n<li>names in the news</li>\n</ul>\n\n<p>This catch-all ability also allows you to know any obscure fact not\ncovered by another GUMSHOE ability. (In moments of improvisatory\ndesperation, your GM may allow you to overlap with abilities which none\nof the players at the current session possess, or which no one is\nthinking to use.)</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Artillery",
+    "ability_type": "Physical",
+    "description": "<p><em>Allows you to operate weaponry systems too large to be carried by a\nperson, including mortars and high-caliber mounted guns.</em></p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Athletics",
+    "ability_type": "Physical",
+    "description": "<p>Athletics allows you to perform general acts of physical derring-do,\nfrom running to jumping to dodging falling or oncoming objects. Any\nphysical action not covered by another ability, probably falls under the\nrubric of Athletics.</p>\n\n<p>If your Athletics rating is 8 or more, your Hit Threshold, the Target\nNumber your opponents use when attempting to hit you in combat, is 4.\nOtherwise, your Hit Threshold is 3.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Battlefield",
+    "ability_type": "Focus",
+    "description": "<p>Since Agincourt the main way not to be killed in battle is to remain\noutside the kill zone created by incoming fire. Use this ability to\nremain alive in the midst of a mass combat or while under bombardment.\nIn <em>Paris</em> you mostly used Athletics to avoid injury hazards; here you\nrely chiefly on Battlefield.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Burglary",
+    "ability_type": "Focus",
+    "description": "<p>You're good at placing yourself inside places you have no right to be,\nand you're good at taking things once you're there. With a successful\nBurglary test, you can:</p>\n\n<ul>\n<li>pick pockets</li>\n<li>unobtrusively search a target's pockets</li>\n<li>plant objects on unsuspecting subjects</li>\n<li>pick locks</li>\n<li>deactivate or evade security systems (although particularly high-tech security systems might require you to have a point in the Investigative ability Hacking)</li>\n<li>find suitable places for forced entry, and use them</li>\n</ul>\n\n<p>Many locks require specialized tools that can be produced with a\nPreparedness test; such tools range from simple lock picks to sonic\nhigh-tech multi-tools. Complex or tricky locks may have a higher than\nusual Difficulty to open them speedily, to avoid noise or damage, or to\nrelock afterward.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Business Affairs",
+    "ability_type": "Presence",
+    "description": "<p>You know how to run a profitable business.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Composure / Stability",
+    "ability_type": "Presence",
+    "description": "<p>Jarring or stressful events can exert a damaging long- psychological\ntoll. Your Stability rating indicates your resistance to mental trauma.</p>\n\n<p><em>[Standard GUMSHOE]</em> You get 1 point for free.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Conceal",
+    "ability_type": "Focus",
+    "description": "<p>You can hide things from view and conceal them from search. Your methods\nmight include camouflage, holding items out on your person, snaking\nthings into drawers unobserved, building secret compartments, or even\naltering a thing's visual signature with paint or plaster.</p>\n\n<p>This ability also allows you to discover things intentionally concealed.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Disguise",
+    "ability_type": "Presence",
+    "description": "<p>This is the skill of altering your own appearance, posture, and voice to\nbe unrecognizable. Disguising others in anything more complex than a\nbaseball cap or false mustache is good only for brief periods, as\nposture and body language are vital components in any successful\ndisguise.</p>\n\n<p>This ability also covers selling yourself as a different person: vocal\nmannerisms, altered body language, dress and motion sense, and\nrealistic-seeming reactions.</p>\n\n<p>Successfully disguising yourself as an actual person already known to\nthose you're interacting with is extraordinarily difficult. Brief\nvoice-only mimicry pits you against a Difficulty of 4. Face-to-face\nimpersonation requires a successful roll against a Difficulty of 7 for\nevery five minutes of sustained contact between you and the object of\nyour impersonation.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Driving",
+    "ability_type": "Physical",
+    "description": "<p>You're a skilled defensive driver, capable of wringing high performance\nfrom even the most recalcitrant automobile, pick-up truck, or van. You\ncan:</p>\n\n<ul>\n<li>evade or conduct pursuit</li>\n<li>avoid collisions, or minimize damage from collisions</li>\n<li>spot tampering with a vehicle</li>\n<li>conduct emergency repairs</li>\n</ul>\n\n<p>For every additional rating point in Driving, you may add an additional\nvehicle type to your repertoire. These include: motorcycle, transport\ntruck, helicopter, or airplane. You may choose exotic types, like\nhovercrafts and tanks, although these are unlikely to see regular use in\nan investigation-based game.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Explosives",
+    "ability_type": "Focus",
+    "description": "<p>You're an expert in bombs and booby-traps. You can:</p>\n\n<ul>\n<li>defuse bombs and traps</li>\n<li>handle nitroglycerine or other dangerously unstable materials with relative safety</li>\n<li>given time, blow open safes or vaults without damaging the contents</li>\n<li>mix explosive compounds from common chemicals</li>\n<li>safely construct and detonate explosive devices or booby-traps of your own</li>\n</ul>\n\n<p>Explosives doubles as an investigative ability when used to:</p>\n\n<ul>\n<li>reconstruct exploded bombs</li>\n<li>for any bomb (exploded or unexploded), determine the method and\nmaterials of the bomb-maker, and deduce his sophistication,\nbackground, and skill</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Fighting",
+    "ability_type": "Physical",
+    "description": "<p>Used when you enter into physical struggle with adversaries, including\nnot only combat but also fleeing and pursuit.</p>\n\n<p>You will have to pay a Toll, even when otherwise victorious, to avoid\ntaking a Minor Injury. You can use Fighting points (along with Health\nand Athletics) to pay Tolls.</p>\n\n<p><em>[This catch-all combat ability encompasses Fleeing, Shooting, and\nScuffling.]</em></p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Filch",
+    "ability_type": "Focus",
+    "description": "<p>Your nimble fingers allow you to unobtrusively manipulate small objects.\nYou can:</p>\n\n<ul>\n<li>pilfer clues from a crime scene under the very noses of unsuspecting authorities</li>\n<li>pick pockets</li>\n<li>plant objects on unsuspecting subjects</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Fleeing",
+    "ability_type": "Physical",
+    "description": "<p>Although you are not a strong overall athlete, you can boot it like a\nbat out of hell when chased by dangerous people, beings, or moving\nobjects.</p>\n\n<p>If your Fleeing rating is more than twice your final Athletics rating,\nyou can buy rating points in Fleeing above the value at a reduced rate,\ngetting 2 rating points for each build point spent. Hence, if your\nAthletics rating is 0, all your Fleeing is half-price.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Gambling",
+    "ability_type": "Presence",
+    "description": "<p>You are conversant with the rules and etiquette of all forms of\ngambling, from Texas hold 'em and roulette to horse racing and numbers\nrackets. To win (or strategically lose) at a game of chance or sporting\nflutter requires a Gambling test, or a contest if played against an NPC\nwith the Gambling ability. In addition to playing by the rules and\nwinning, you can:</p>\n\n<ul>\n<li>spot cheating, either by the house or by another player</li>\n<li>stack a deck, rig a horse race, load dice, or otherwise cheat</li>\n</ul>\n\n<p>Palming cards, tiles, or dice is allowed as a Gambling test; anything\nelse requires Conceal or Filch.</p>\n\n<p>Gambling doubles as an <strong>Investigative</strong> ability when used to:</p>\n\n<ul>\n<li>calculate the odds of events ruled by probabilities</li>\n<li>use Bullshit Detector on professional gamblers despite their poker faces</li>\n<li>interact with gamblers and blend in at casinos</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Health",
+    "ability_type": "Physical",
+    "description": "<p>Health measures your ability to sustain injuries, resist infection, and\nsurvive the effects of toxins[^1]. When you get hit in the course of a\nfight, your Health pool is diminished. A higher Health pool allows you\nto stay in a fight longer before succumbing to your injuries.</p>\n\n<p><em>[Standard GUMSHOE]</em> When your Health pool is depleted, you may be\ndazed, wounded, or pushing up the daisies. For more on this, see\n\"<a href=\"#_toc747\">Exhaustion, Injury and Gruesome Death</a>.\"</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Hypnosis",
+    "ability_type": "Presence",
+    "description": "<p>This ability represents medical hypnosis as depicted in pulpy genre\nsources; it is not psychic mesmerism or Dr Caligari-style mind control.\nYou can only hypnotize a <em>willing</em> subject, and only one subject at a\ntime. Using Hypnosis requires a Test against a Difficulty Number that\nvaries depending on what you are using it for.</p>\n\n<p>• <em>Simple hypnotic state:</em> To place a patient in a hypnotic trance, you\nmust succeed against Difficulty 3. During this trance, she is calm and\nplacid.</p>\n\n<p>• <em>Establish analytic rapport:</em> Once you have successfully hypnotized a\npatient, your Psychoanalysis pool increases by 3 during any future use\nof Psychoanalysis on them. Your Psychoanalysis rating must be at least 3\nto gain this benefit, and the 3 points must be spent on the patient.</p>\n\n<p>• <em>Recover memories:</em> The patient's fragmented or buried memories, as of\ndreams, traumas, or murky monster attacks, can be called to the surface\nand \"relived.\" This is a Difficulty 4 test. Reliving an experience that\ncost Stability will cost the patient the same amount again, although you\nmay practice immediate Psychological Triage to minimize the patient's\nshock. The GM is free to provide false memories if she feels you are\n\"leading the witness.\"</p>\n\n<p>• <em>Post-hypnotic suggestion:</em> Upon lifting the trance, you may cause\nyour patient to perform a single action without apparent thought. You\nmay require a \"trigger phrase\" or simply specify a time: (\"When you get\nhome, you'll leave the book on the desk.\") Spells and other complex\nactivities cannot be post-hypnotically induced. The patient will not\naccept a suggestion contrary to her normal behavior. This is a\nDifficulty 4 or higher test; the GM may increase the Difficulty based on\nthe suggestion.</p>\n\n<p>• <em>Ease pain:</em> You can relieve symptomatic pain in a patient. This\nremoves the mechanical penalties for being hurt and lasts until the\npatient is wounded again. This is a Difficulty 4 or higher test; the GM\nmay increase the Difficulty depending on the pain's severity. <em>This does\nnot work under battlefield conditions.</em></p>\n\n<p>• <em>False memories:</em> You can purposely implant false memories in the\npatient or bury real ones. This is extremely unethical without a direct\ntherapeutic benefit (such as easing a remembered trauma). This is a\nContest between your Hypnosis and the patient's Stability. Your\nDifficulty Number is 5; the patient resists with Difficulty 4. Again,\nthe GM may increase your Difficulty based on the severity of the memory\nchange. At the GM's discretion, if the patient suffers a further trauma\n(such as her Stability dropping below -5 again), she may suddenly recall\nthe truth.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Infiltration",
+    "ability_type": "Physical",
+    "description": "<p>You're good at placing yourself inside places you have no right to be.\nYou can:</p>\n\n<ul>\n<li>pick locks</li>\n<li>deactivate or evade security systems</li>\n<li>move silently</li>\n<li>find suitable places for forced entry, and use them</li>\n</ul>\n\n<p>Despite its name, Infiltration is as useful for getting out of places\nundetected as if its for getting into them.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Insurgency",
+    "ability_type": "Focus",
+    "description": "<p>This ability incorporates Traps and Bombs, plus the following:</p>\n\n<p>Before attacking human (or strongly human-like) targets in a location\nyou have the opportunity to case in advance, you can devise the most\nefficient plan of attack, dealing maximum harm at minimum risk.</p>\n\n<p>Make an Insurgency test with a Difficulty keyed to the location: 4 for\nmost civilian targets, 5 for a secure military target, 6 for an\nultra-secure installation.</p>\n\n<p>On success with a margin of 2 or less, all combatants on your side get a\n+1 Fighting bonus. A higher margin nets a +2 bonus for all.</p>\n\n<p>This also allows you to defend against attackers using guerrilla tactics\nagainst a position you have had time to hunker down in. Here the\nDifficulties flip: 6 for a civilian location, 5 for military, 4 for\nultra-secure. When defending you can make a Counterinsurgency Push for a\n+4 bonus on your roll.</p>\n\n<p>Insurgency tests take the place of extended planning sessions in which\nplayers manage the tactical details of an assault, just as Preparedness\nskips the part in a classic RPG experience where you dutifully note in\nadvance every item you're carrying around with you.</p>\n\n<p>After a successful Insurgency test, ask the player, abetted by anyone\nelse in the group who likes to describe skirmishes in loving Tom\nClancy-esque detail, to describe the clever plans they've laid for their\nsoon-to-be-attacked targets. In the ensuing Fighting test, they can\ndescribe them working to superb effect (if the group wins), or the GM\ncan describe them being countered by a victorious foe.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Mechanics",
+    "ability_type": "Focus",
+    "description": "<p>You're good at building, repairing, and disabling devices, from classic\npit-and-pendulum traps to DVD players. Given the right components, you\ncan create jury-rigged devices from odd bits of scrap. Mechanics doubles\nas an investigative ability when used to:</p>\n\n<ul>\n<li>evaluate the quality of workmanship used to create an item</li>\n<li>determine the identity of a handmade item's maker by comparing to known work by that individual</li>\n</ul>\n\n<p><em>[You may wish to maintain the flavor of certain settings by splitting\nthis into multiple disciplines, each specializing in its own particular\nsubset of technology. In TimeWatch, this ability is named Tinkering.]</em></p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Medic / First Aid",
+    "ability_type": "Focus",
+    "description": "<p>You can perform first aid on sick or injured individuals.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Morale",
+    "ability_type": "Presence",
+    "description": "<p>Think of Morale as the outward-going counterpart to Composure. When the\nterrors of war impel other soldiers to flee or curl up into a ball, a\nMorale success returns them to their senses and keeps them fighting.</p>\n\n<p>As long as your character can be heard by another PC, you can spend any\nnumber of points from your Morale pool to refresh that PC's Composure\npool by the same number of points. The GM may ask you to describe or act\nout the inspiring speech or exclamation that fills the recipient with\nrenewed resolve.</p>\n\n<p>You can't use Morale to refill your own Composure pool.</p>\n\n<p>In addition, you can make Morale tests to:</p>\n\n<ul>\n<li>allow other PCs to discard certain Shock cards (when the text of the card says this is possible)</li>\n<li>motivate GMC soldiers to risk their lives, as they were trained to do</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Network",
+    "ability_type": "Focus",
+    "description": "<p>You know somebody, probably but not necessarily from your days in the\nresistance, who can help you with a tricky, but no more than moderately\ndangerous, logistical problem. Test this ability not to solve the main\nproblem you currently face, but a secondary dilemma that would otherwise\ndistract you from the main problem. They don't do things for you; they\nmake it easier for you to do things.</p>\n\n<p>With Network you might:</p>\n\n<ul>\n<li>tap a couple of experienced operators to protect a witness while you continue your investigation</li>\n<li>find a sniper to fire a well-timed round that will drive opponents into your ambush, (and then slip away, leaving you to risk your skin in the actual fight)</li>\n<li>know an absolutely discreet chop shop where you can get the vehicle you used in an operation quickly disassembled, no questions asked</li>\n<li>borrow restricted weapons</li>\n<li>gain access to a vault where you can stash the evidence you've collected</li>\n<li>get that priest who used to shelter dissidents to make his cathedral available as neutral ground for a secret meeting</li>\n</ul>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Politics",
+    "ability_type": "Presence",
+    "description": "<p>Politics tests allow you to win over allies and fend off rivals as you\npursue the group Goal that runs as a subplot in parallel with your\ninvestigation into a scenario's central mystery.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Piloting",
+    "ability_type": "Physical",
+    "description": "<p>You can fly one or more airborne vehicles. You can:</p>\n\n<ul>\n<li>evade or conduct pursuit</li>\n<li>anticipate bad weather</li>\n<li>avoid collisions, or minimize damage from collisions</li>\n<li>spot tampering with a vehicle</li>\n<li>navigate by compass or the stars, read maps, and maintain a sense of direction</li>\n<li>conduct emergency repairs</li>\n</ul>\n\n<p><em>[You may require the player to specify a particular type of craft,\ngaining 1 vehicle per 2 rating points. Rewrite to reflect the air\nvehicles prevalent in your setting. In some settings you might include\nwater craft in this ability.]</em></p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Preparedness",
+    "ability_type": "Presence",
+    "description": "<p>You expertly anticipate the needs of any mission by packing a kit\nefficiently arranged with necessary gear. Assuming you have immediate\naccess to your kit, you can produce whatever object the team needs to\novercome an obstacle. You make a simple test; if you succeed, you have\nthe item you want. You needn't do this in advance of the adventure, but\ncan dig into your kit bag (provided you're able to get to it) as the\nneed arises.</p>\n\n<p>Items of obvious utility to a paranormal investigation do not require a\ntest. These include but are not limited to: note paper, writing\nimplements, laptop computer, a PDA with wireless Internet access, mini\nUSB drive, cell phone, various types of tape, common tools and hardware,\nlight weapons, flashlights of various sizes, chem lights, batteries,\nmagnifying glasses, thermometer, and a no-frills audio recording device.</p>\n\n<p>The utility of traditional anti-supernatural accoutrements such as\ncrucifixes, holy water, and silver bullets is a matter of great debate\nwithin the Ordo Veritatis. Whether you choose to include them in your\nbasic kit reveals your attitude toward the supernatural. Is it purely\nthe work of the Esoterrorists, or are there other unnatural forces out\nthere? Decide for yourself, and pack wisely.</p>\n\n<p>Other abilities imply the possession of basic gear suitable to their\ncore tasks. Characters with Medic have their own first aid kits;\nPhotographers come with cameras and accessories. If you have Shooting,\nyou have a gun, and so on. Preparedness does not intrude into their\nterritory. It covers general-purpose investigative equipment, plus\noddball items that suddenly come in handy in the course of the story.</p>\n\n<p>The sorts of items you can produce at a moment's notice depend not on\nyour rating or pool, but on narrative credibility. If the GM determines\nthat your possession of an item would seem ludicrous or and/or out of\ngenre, you don't get to roll for it. You simply don't have it. Any item\nwhich elicits a laugh from the group when suggested is probably out of\nbounds.</p>\n\n<p>Inappropriate use of the Preparedness ability is like pornography. Your\nGM will know it when she sees it.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Public Relations",
+    "ability_type": "Presence",
+    "description": "<p>You manage the public image of your team or others. You unruffle\nfeathers, burnish reputations, downplay failures, and trumpet successes.</p>\n\n<p>When keeping the locals onside during a case, the GM may allow you to\nspend Reassurance or Respect points on Public Relations tests.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Riding",
+    "ability_type": "Physical",
+    "description": "<p>Although staying on a tame, untroubled walking horse (on flattish\nterrain, anyway) is relatively easy once one gets the hang of it, and\nstaying on a mule or burro even easier, you are a gifted equestrian. You\ncan gallop even recalcitrant or spirited horses, donkeys, and mules past\ndistractions and across the countryside. You can:</p>\n\n<ul>\n<li>evade or conduct mounted pursuit</li>\n<li>care for, groom, shoe, and stable mounts</li>\n<li>take care of, prepare, and use riding gear such as saddles and bridles</li>\n<li>calm a nervous mount</li>\n<li>drive a horse-drawn wagon or cart</li>\n<li>wield a weapon while riding</li>\n</ul>\n\n<p>For every additional 2 rating points in Riding, you may add an\nadditional riding animal: camel, water buffalo, or elephant.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Scrounging",
+    "ability_type": "Presence",
+    "description": "<p>Allows you to find needed items in or around a war zone, through a\nmixture of ingratiation, horse-trading, and perhaps the odd moment of\noutright stealing.</p>\n\n<p>Think of it as Preparedness for needs you had no way of preparing for.</p>\n\n<p>In a restful moment or pause in the action, you can refresh a single\nother PC's Battlefield pool by producing a scrounged item that brings\ncheer or solace. You must describe it and can't describe the same item\nmore than once in a single scenario. Items might include: baguettes,\nsausages, champagne bottles, books, cigars, shaving cream, or shampoo.\nChoose a number of Scrounging points to spend: the recipient refreshes\nBattlefield by the same amount. You can't transfer points from\nScrounging to your own Battlefield pool.</p>\n\n<p>Use Scrounging to refresh the entire squad's Battlefield and Athletics\npools by Hunkering Down;</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Scuffling",
+    "ability_type": "Physical",
+    "description": "<p>You can hold your own in a hand-to-hand fight, whether you wish to kill,\nknock out, restrain, or evade your opponent.</p>\n\n<p><em>[To preserve the flavor of certain settings you may wish to break this\nout into two abilities, for armed and unarmed close combat.]</em></p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Sense Trouble",
+    "ability_type": "Presence",
+    "description": "<p>Keen perceptions allow you to spot signs of potential danger to yourself\nand others. Information gained from this ability might save your skins\nbut doesn't directly advance the central mystery. You might use it to:</p>\n\n<ul>\n<li>hear someone sneak up on you</li>\n<li>see an obscured or hidden figure</li>\n<li>smell a gas leak</li>\n<li>have a bad feeling about this</li>\n</ul>\n\n<p>Players never know the Difficulty Numbers for Sense Trouble before\ndeciding how many points to spend, even in games where GMs generously\ninform the players of other Difficulty Numbers. Players must blindly\nchoose how much to spend.</p>\n\n<p>When more than one player is able to make a Sense Trouble test, the\ngroup decides which of them makes the attempt. Only one attempt per\nsource of trouble occurs, conducted by the chosen PC.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Shrink",
+    "ability_type": "Presence",
+    "description": "<p>You can provide comfort, perspective and solace to the mentally\ntroubled. You may be a therapist or counselor, a priest or pastor, or\njust a empathetic and intuitive individual. You can restore panicked\ncharacters to a state of calm, and treat any long-term mental illnesses\nthey accrue in the course of their investigations.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Shooting",
+    "ability_type": "Physical",
+    "description": "<p>You are adept with firearms.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Composure / Stability",
+    "ability_type": "Presence",
+    "description": "<p>Jarring or stressful events can exert a damaging long- psychological\ntoll. Your Stability rating indicates your resistance to mental trauma.</p>\n\n<p><em>[Standard GUMSHOE]</em> You get Stability 1 for free.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Surveillance",
+    "ability_type": "Focus",
+    "description": "<p>You're good at following suspects without revealing your presence. You\ncan:</p>\n\n<ul>\n<li>guide a team to follow a suspect for short periods, handing off to the next in sequence, so the subject doesn't realize he's being trailed</li>\n<li>use telescopic viewing equipment to keep watch on a target from a distance</li>\n<li>find undetectable vantage points</li>\n<li>hide in plain sight</li>\n<li>perceive (either with sight or other senses) potential hazards to yourself or others.</li>\n</ul>\n\n<p>8 or more points in Surveillance grants you 1 free point of the\ninvestigative ability Electronic Surveillance.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Traps and Bombs",
+    "ability_type": "Focus",
+    "description": "<p>Use this ability to set or disarm mines, explosive charges, and booby\ntraps. The latter may be explosive or purely mechanical.</p>\n"
+  },
+  {
+    "ability_category": "general",
+    "ability_name": "Unobtrusiveness",
+    "ability_type": "Focus",
+    "description": "<p>You're good at noticing other people trying to be unobtrusive, just as\nyou're skilled at hiding and avoiding notice. It's up to you whether you\nuse skill, technology, minor psychic prowess, or a combination of those\nto blend into the background. With a successful Unobtrusiveness test,\nyou can:</p>\n\n<ul>\n<li>spot someone trying to hide or be sneaky</li>\n<li>avoid being surprised in combat</li>\n<li>surprise others in combat</li>\n<li>follow someone without being noticed</li>\n<li>hide in plain sight within a crowd</li>\n<li>blend into the shadows to hide</li>\n<li>escape from someone following you</li>\n<li>pass unnoticed despite being the sort of person who would normally attract attention</li>\n</ul>\n"
+  }
+]

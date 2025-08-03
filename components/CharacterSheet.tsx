@@ -1,22 +1,27 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import type { Character } from "@/types/character"
-import abilitiesData from "@/data/abilities.json"
+import { useAbilities } from "@/contexts/AbilitiesContext"
+import type { Ability } from "@/contexts/AbilitiesContext"
 
 interface CharacterSheetProps {
   character: Character
 }
 
 export default function CharacterSheet({ character }: CharacterSheetProps) {
+  const { abilitiesData } = useAbilities()
+
   const getAbilityDescription = (abilityName: string, type: "investigative" | "general"): string => {
-    const abilities = type === "investigative" ? abilitiesData.investigative : abilitiesData.general
-    const ability = abilities.find((a) => a.name === abilityName)
+    const abilities = abilitiesData.filter(a => a.ability_category === type)
+    const ability = abilities.find((a) => a.ability_name === abilityName)
     return ability?.description || "No description available"
   }
 
   const getAbilityCategory = (abilityName: string): string => {
-    const ability = abilitiesData.investigative.find((a) => a.name === abilityName)
-    return ability?.category || ""
+    const ability = abilitiesData.find((a) => 
+      a.ability_name === abilityName && a.ability_category === 'investigative'
+    )
+    return ability?.ability_type || ""
   }
 
   return (
