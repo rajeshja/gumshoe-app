@@ -1,12 +1,14 @@
 "use client"
 
 import { useState } from "react"
+import { useAbilities, type Ability as AbilityType } from "@/contexts/AbilitiesContext"
 import PlayerSetup from "@/components/PlayerSetup"
 import CharacterCreator from "@/components/CharacterCreator"
 import CharacterSheets from "@/components/CharacterSheets"
 import type { Character } from "@/types/character"
 
 export default function Home() {
+  const { abilitiesData } = useAbilities()
   const [currentStep, setCurrentStep] = useState<"setup" | "creation" | "sheets">("setup")
   const [numPlayers, setNumPlayers] = useState<number>(0)
   const [characters, setCharacters] = useState<Character[]>([])
@@ -55,23 +57,26 @@ export default function Home() {
     setCurrentCharacterIndex(0)
   }
 
-  // Calculate investigative build points based on number of players
+  // Calculate investigative build points based on number of players and available investigative abilities
   const getInvestigativeBuildPoints = (numPlayers: number): number => {
-    switch (numPlayers) {
-      case 1:
-        return 32
-      case 2:
-        return 28
-      case 3:
-        return 24
-      case 4:
-        return 20
-      case 5:
-        return 18
-      case 6:
-        return 16
-      default:
-        return 20
+    // Get the list of investigative abilities from the abilities data
+    const investigativeAbilities = abilitiesData.filter(
+      (ability: AbilityType) => ability.ability_category === 'investigative'
+    )
+    const totalInvestigativeAbilities = investigativeAbilities.length
+    
+    // Calculate build points based on number of players
+    if (numPlayers === 2) {
+      return Math.ceil(totalInvestigativeAbilities * 0.80) // 80% for 2 players
+    } else if (numPlayers === 3) {
+      return Math.ceil(totalInvestigativeAbilities * 0.60) // 60% for 3 players
+    } else if (numPlayers === 4) {
+      return Math.ceil(totalInvestigativeAbilities * 0.55) // 55% for 4 players
+    } else if (numPlayers >= 5) {
+      return Math.ceil(totalInvestigativeAbilities * 0.50) // 50% for 5+ players
+    } else {
+      // Default case (1 player)
+      return Math.ceil(totalInvestigativeAbilities * 1.0) // 100% for 1 player
     }
   }
 
